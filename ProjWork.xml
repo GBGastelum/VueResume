@@ -21,6 +21,122 @@
 	<education><![CDATA[Bachelors of Computer Science - Neumont University - June 2008]]></education>
 	<experience>
 		<job>
+			<company>Project: Dynamic Online Resume</company>
+			<time>
+				<startmonth>Apr</startmonth>
+				<startyear>2018</startyear>
+				<endmonth>Current</endmonth>
+				<endyear></endyear>
+			</time>
+			<roles><![CDATA[Personal Project]]></roles>
+			<skills><![CDATA[Single-page app, Javascript, Vue.js, XML, HTML, CSS, GITHUB (PHP planned)]]></skills>
+			<details type='dev'><![CDATA[<strong>Dynamically generated resume</strong> <em>XML, VUE.js, Javascript, HTML, CSS</em>
+			<ul>
+			<li>Allow users to alter resume focus by altering the URL variable “?res=”</li>
+				<ul>
+				<li>Options include</li>
+					<ul>
+					<li>dev – Developer focused</li>
+					<li>support – Support focused</li>
+					<li>short – Condensed</li>
+					<li>expand – Detailed</li>
+					<li>base – Overall focused</li>
+					</ul>
+				</ul>
+			<li>Single-page application is built on Vue.js wrapped in HTML</li>
+			<li>Data is stored/retrieved from an XML file</li>
+			<li>GITHub repository: <a href="https://github.com/GBGastelum/VueResume">https://github.com/GBGastelum/VueResume</a></li>
+			<li>Next functionality expansion will be PHP-based XML editing page</li>
+				<ul>
+				<li>New page will allow convenient updating of XML data used for resume</li>
+				</ul>
+			</ul>]]></details>
+			<details type='short'><![CDATA[<strong>Dynamically generated resume</strong> <em>XML, VUE.js, Javascript, HTML, CSS</em>
+			<ul>
+			<li>Allow users to alter resume focus by altering the URL variable “?res=”</li>
+				<ul>
+				<li>Options include</li>
+					<ul>
+					<li>dev – Developer focused</li>
+					<li>support – Support focused</li>
+					<li>short – Condensed</li>
+					<li>expand – Detailed</li>
+					<li>base – Overall focused</li>
+					</ul>
+				</ul>
+			<li>Single-page application is built on Vue.js wrapped in HTML</li>
+			<li>Data is stored/retrieved from an XML file</li>
+			<li>GITHub repository: <a href="https://github.com/GBGastelum/VueResume">https://github.com/GBGastelum/VueResume</a></li>
+			<li>Next functionality expansion will be PHP-based XML editing page</li>
+				<ul>
+				<li>New page will allow convenient updating of XML data used for resume</li>
+				</ul>
+			</ul>]]></details>
+			<details type='expand'><![CDATA[<strong>Dynamically generated resume</strong> <em>XML, VUE.js, Javascript, HTML, CSS</em>
+			<ul>
+			<li>Allow users to alter resume focus by altering the URL variable “?res=”</li>
+				<ul>
+				<li>Options include</li>
+					<ul>
+					<li>dev – Developer focused</li>
+					<li>support – Support focused</li>
+					<li>short – Condensed</li>
+					<li>expand – Detailed</li>
+					<li>base – Overall focused</li>
+					</ul>
+				</ul>
+			<li>Single-page application is built on Vue.js wrapped in HTML</li>
+			<li>Data is stored/retrieved from an XML file</li>
+			<li>GITHub repository: <a href="https://github.com/GBGastelum/VueResume">https://github.com/GBGastelum/VueResume</a></li>
+			<li>Next functionality expansion will be PHP-based XML editing page</li>
+				<ul>
+				<li>New page will allow convenient updating of XML data used for resume</li>
+				</ul>
+			</ul>]]></details>
+			<details type='support'><![CDATA[<strong>Dynamically generated resume</strong> <em>XML, VUE.js, Javascript, HTML, CSS</em>
+			<ul>
+			<li>Allow users to alter resume focus by altering the URL variable “?res=”</li>
+				<ul>
+				<li>Options include</li>
+					<ul>
+					<li>dev – Developer focused</li>
+					<li>support – Support focused</li>
+					<li>short – Condensed</li>
+					<li>expand – Detailed</li>
+					<li>base – Overall focused</li>
+					</ul>
+				</ul>
+			<li>Single-page application is built on Vue.js wrapped in HTML</li>
+			<li>Data is stored/retrieved from an XML file</li>
+			<li>GITHub repository: <a href="https://github.com/GBGastelum/VueResume">https://github.com/GBGastelum/VueResume</a></li>
+			<li>Next functionality expansion will be PHP-based XML editing page</li>
+				<ul>
+				<li>New page will allow convenient updating of XML data used for resume</li>
+				</ul>
+			</ul>]]></details>
+			<details type='base'><![CDATA[<strong>Dynamically generated resume</strong> <em>XML, VUE.js, Javascript, HTML, CSS</em>
+			<ul>
+			<li>Allow users to alter resume focus by altering the URL variable “?res=”</li>
+				<ul>
+				<li>Options include</li>
+					<ul>
+					<li>dev – Developer focused</li>
+					<li>support – Support focused</li>
+					<li>short – Condensed</li>
+					<li>expand – Detailed</li>
+					<li>base – Overall focused</li>
+					</ul>
+				</ul>
+			<li>Single-page application is built on Vue.js wrapped in HTML</li>
+			<li>Data is stored/retrieved from an XML file</li>
+			<li>GITHub repository: <a href="https://github.com/GBGastelum/VueResume">https://github.com/GBGastelum/VueResume</a></li>
+			<li>Next functionality expansion will be PHP-based XML editing page</li>
+				<ul>
+				<li>New page will allow convenient updating of XML data used for resume</li>
+				</ul>
+			</ul>]]></details>
+		</job>
+		<job>
 			<company>DigitalGlobe</company>
 			<time>
 				<startmonth>Nov</startmonth>
@@ -565,7 +681,6 @@
 				<li>Accommodate employee’s schedules from regions and cultures across the globe</li>
 				</ul>
 			</ul>]]></details>
-			<details type='example'><![CDATA[example]]></details>
 		</job>
 	</experience>
 	<volunteer><![CDATA[Stansberry Elementary - Jan 2013-2016 - Math Tutoring - Science Exploration - Reading - Teacher/Office Aide<br/>

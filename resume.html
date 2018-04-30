@@ -18,7 +18,7 @@
 	</tr>
 	<tr>
 		<th colspan=2 id="contact">
-			<h3>Cell: {{ contactphone }}<br/>
+			<h3>{{ contactphone }}<br/>
 			Email: {{ contactemail }}</h3>
 		</th>
 	</tr>
@@ -128,8 +128,6 @@ for(var i = 0; i < jobs.length; i++) {
       	{detail : details}
     ];
     jobsArr.push(jobArr);
-	//alert(jobsArr.length + ' checking '+ jobsArr.length);
-	//alert(contactName+contactPhone+contactEmail+techskill+certification+educations+volunteers+softskill);
 }
 
 var app = new Vue({
