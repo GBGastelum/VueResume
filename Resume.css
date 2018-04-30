@@ -1,0 +1,132 @@
+@charset "ISO-8859-1";
+body {
+    text-align: center;
+}
+table, th, td {
+	margin-left:auto; 
+    margin-right:auto;
+	text-align: center;
+	border-collapse: collapse;
+}
+p, em, strong, br, h3, h4, h5, ul {
+	margin:0;
+	line-height: 1;
+}
+h1, h2 {
+	margin:1;
+	line-height: 1.5;
+}
+.detailsSection {
+	text-align: left;
+}
+.roles {
+	text-align: left;
+	border-top: 1px solid black;
+}
+#education {
+	text-align: center;
+}
+
+.company {
+    vertical-align: text-top;
+	border-top: 1px solid black;
+	padding-right: 10px;
+}
+.companyTime {
+	
+}
+
+.companyName {
+    
+}
+#XMLContents{
+	margin-left:auto; 
+    margin-right:auto;
+}
+#Testing{
+	margin-left:auto; 
+    margin-right:auto;
+}
+/*
+
+#quote-module {
+  border-top:1px dotted #888;
+  background:#HHH;
+  min-height:200px;
+}
+table {
+  min-width:300px;
+}
+th, td {
+  padding: 6px 5px 6px 5px;
+}
+#L {
+  text-align: left;
+  font-size: x-small;
+  vertical-align: middle;
+  border-bottom: 1px solid #ddd;
+}
+#R {
+  text-align: right;
+  font-size: small;
+  vertical-align: middle;
+  font-weight: 800;
+  border-bottom: 1px solid #ddd;
+}
+#RT {
+  text-align: right;
+  font-size: x-small;
+  vertical-align: middle;
+  font-weight: 300;
+  border-bottom: 1px solid #ddd;
+}
+#F {
+  text-align: center;
+  vertical-align: middle;
+  font-size: large;
+}
+#NM {
+  text-align: left;
+  font-size: 18px;
+  vertical-align: middle;
+  font-weight: 550;
+  padding-top: 10px;
+  border-top: 5px solid #777;
+}
+#LP {
+  text-align: left;
+  font-size: 20px;
+  vertical-align: middle;
+  font-weight: 550;
+  border-bottom: 1px solid #ddd;
+}
+#RP {
+  text-align: right;
+  font-size: 18px;
+  vertical-align: middle;
+  border-bottom: 1px solid #ddd;
+  font-weight: 500;
+  padding: 15px 5px 15px 5px;
+}
+#left {
+  float: left;
+  margin: 0;
+  padding: 1em;
+  text-align: left;
+  text-size: 1em;
+}
+#right {
+  padding: 1em;
+  overflow: hidden;
+  text-align: right;
+}
+#quoteBtn {
+    padding: 5px 40px 5px 40px;
+    text-align: center;
+    display: inline-block;
+    font-size: 13px;
+    margin: 4px 2px;
+}
+
+
+*/

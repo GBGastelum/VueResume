@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resume>
+	<contact>
+		<contactname>George B Gastelum</contactname>
+		<contactphone>Cell: 801-915-7082</contactphone>
+		<contactemail><![CDATA[GeorgeGastelum@hotmail.com]]></contactemail>
+	</contact>
+	<techskills><![CDATA[<ul>
+			<li>Programming Languages: - Java, Java J2EE, JUnit, C++, C#, NUnit, ADO.NET, ASP.NET, WCF, WPF</li>
+			<li>Web Languages: - HTML, XHTML, CSS, PHP</li>
+			<li>Data Modeling: - UML, ORM, nORMa</li>
+			<li>Data Languages: - SQL, XML, XPath</li>
+			<li>Databases: - DB2, MySQL, MS SQL Server</li>
+			<li>Scripting Languages: - Bash, Linux</li>
+			</ul>]]></techskills>
+	<certifications><![CDATA[<ul>
+			<li>Oracle Certified Expert, Java EE 6 Web Component Developer</li>
+			<li>Zend Certified PHP Engineer</li>
+			<li>Certified ScrumMaster</li>
+			</ul>]]></certifications>
+	<education><![CDATA[Bachelors of Computer Science - Neumont University - June 2008]]></education>
+	<experience>
+		<job>
+			<company>DigitalGlobe</company>
+			<time>
+				<startmonth>Nov</startmonth>
+				<startyear>2012</startyear>
+				<endmonth>Mar</endmonth>
+				<endyear>2018</endyear>
+			</time>
+			<roles><![CDATA[Application Engineer, Technical Writer, Trainer, Team Leader]]></roles>
+			<skills><![CDATA[Linux, Scripting, JAVA, SQL, Team Player, Multi-environment troubleshooting]]></skills>
+			<details type='dev'><![CDATA[<ul>
+			<li>Monitoring and troubleshooting applications across multiple independent environments involving:</li>
+				<ul>
+				<li>Varied data flow paths between each environment</li>
+				<li>Multiple monitoring methods, including Nimsoft, Kibana, Linux, and other teams</li>
+				<li>Analyzing logs and behavior in one environment to troubleshoot an issue in another environment</li>
+				</ul>
+			<li>Documentation creation, correction, and dissemination, which required:</li>
+				<ul>
+				<li>Following up with the appropriate SMEs to correct/update the document when an error was discovered</li>
+				<li>Increasing documentation visibility by adding tags and/or moving it to a more relevant location</li>
+				<li>Working with SMEs and users to create new documentation that is easy to use and understand</li>
+				</ul>
+			<li>Constantly learning new applications, workflows, communication methods, and cross-team knowledge sharing</li>
+			<li>Consistent evaluation of current processes to identify areas and methods to improve efficiency and efficacy</li>
+			<li>Work with a variety of teammates and other technical teams effectively and professionally</li>
+				<ul>
+				<li>Create strong team communication and support to:</li>
+					<ul>
+					<li>Minimize unnecessary turnover and subsequent retraining</li>
+					<li>Ensure effective troubleshooting and operational awareness through communication and trust</li>
+					</ul>
+				<li>Be proactive in connecting newer team members to SMEs to build knowledge and confidence</li>
+				</ul>
+			</ul>]]></details>
+			<details type='short'><![CDATA[<strong>Technical Services Operations Center (TSOC)</strong> <em>Application Engineer</em><br/>
+			<ul>
+			<li>Monitoring and troubleshooting application across multiple independent environments</li>
+			<li>Documentation</li>
+			<li>Process Improvement</li>
+			<li>Constant Learning</li>
+			</ul>]]></details>
+			<details type='expand'><![CDATA[<strong>Technical Services Operations Center (TSOC)</strong> <em>Application Engineer</em><br/>
+			<ul>
+			<li>Monitoring and troubleshooting applications across multiple independent environments involving:</li>
+				<ul>
+				<li>Varied data flow paths between each environment</li>
+				<li>Multiple monitoring methods, including Nimsoft, Kibana, Linux, and other teams</li>
+				<li>Analyzing logs and behavior in one environment to troubleshoot an issue in another environment</li>
+				</ul>
+			<li>Documentation creation, correction, and dissemination, which required:</li>
+				<ul>
+				<li>Effectively searching within multiple documentation repositories</li>
+					<ul>
+					<li>Sharepoint, Wiki, Sharefile, emails, past tickets</li>
+					</ul>
+				<li>Following up with the appropriate SMEs to correct/update the document when an error was discovered</li>
+				<li>Increasing documentation visibility by adding tags and/or moving it to a more relevant location</li>
+				<li>Working with SMEs and users to create new documentation that is easy to use and understand</li>
+				</ul>
+			<li>Constant Learning new applications, workflows, communication methods, and cross-team knowledge sharing</li>
+				<ul>
+				<li>Regularly work with other shifts to ensure knowledge and familiarity dissemination</li>
+				<li>Consistently provide off-hours support to less familiar teams across the TSOC family</li>
+				</ul>
+			<li>Consistent evaluation of current processes to identify areas and methods to improve efficiency and efficacy</li>
+				<ul>
+				<li>When a process is improved, work with all TSOC shifts to ensure improvement is applicable to all teams</li>
+				</ul>
+			<li>Work with a variety of teammates and other technical teams effectively and professionally</li>
+				<ul>
+				<li>Create strong team communication and support to:</li>
+					<ul>
+					<li>Minimize unnecessary turnover and subsequent retraining</li>
+					<li>Ensure effective troubleshooting and operational awareness through communication and trust</li>
+					</ul>
+				<li>Be proactive in connecting newer team members to SMEs to build knowledge and confidence</li>
+				<li>Reach out to other teams to discuss schedules and plans to ensure operational awareness</li>
+				</ul>
+			</ul>]]></details>
+			<details type='support'><![CDATA[<strong>Technical Services Operations Center (TSOC) – Application Engineer</strong>
+			<ul>
+			<li>Monitoring and troubleshooting applications across multiple independent environments involving:</li>
+				<ul>
+				<li>Varied data flow paths between each environment</li>
+				<li>Multiple monitoring methods, including Nimsoft, Kibana, Linux, and other teams</li>
+				<li>Analyzing logs and behavior in one environment to troubleshoot an issue in another environment</li>
+				</ul>
+			<li>Documentation creation, correction, and dissemination, which required:</li>
+				<ul>
+				<li>Effectively searching within multiple documentation repositories</li>
+					<ul>
+					<li>Sharepoint, Wiki, Sharefile, emails, past tickets</li>
+					</ul>
+				<li>Following up with the appropriate SMEs to correct/update the document when an error was discovered</li>
+				<li>Increasing documentation visibility by adding tags and/or moving it to a more relevant location</li>
+				<li>Working with SMEs and users to create new documentation that is easy to use and understand</li>
+				</ul>
+			<li>Constant Learning new applications, workflows, communication methods, and cross-team knowledge sharing</li>
+				<ul>
+				<li>Regularly work with other shifts to ensure knowledge and familiarity dissemination</li>
+				<li>Consistently provide off-hours support to less familiar teams across the TSOC family</li>
+				</ul>
+			<li>Consistent evaluation of current processes to identify areas and methods to improve efficiency and efficacy</li>
+				<ul>
+				<li>When a process is improved, work with all TSOC shifts to ensure improvement is applicable to all teams</li>
+				</ul>
+			<li>Work with a variety of teammates and other technical teams effectively and professionally</li>
+				<ul>
+				<li>Create strong team communication and support to:</li>
+					<ul>
+					<li>Minimize unnecessary turnover and subsequent retraining</li>
+					<li>Ensure effective troubleshooting and operational awareness through communication and trust</li>
+					</ul>
+				<li>Be proactive in connecting newer team members to SMEs to build knowledge and confidence</li>
+				<li>Reach out to other teams to discuss schedules and plans to ensure operational awareness</li>
+				</ul>
+			</ul>]]></details>
+			<details type='base'><![CDATA[<strong>Technical Services Operations Center (TSOC)</strong> <em>Application Engineer</em><br/>
+			<ul>
+			<li>Monitoring and troubleshooting applications across multiple independent environments involving:</li>
+				<ul>
+				<li>Varied data flow paths between each environment</li>
+				<li>Multiple monitoring methods, including Nimsoft, Kibana, Linux, and other teams</li>
+				<li>Analyzing logs and behavior in one environment to troubleshoot an issue in another environment</li>
+				</ul>
+			<li>Documentation creation, correction, and dissemination, which required:</li>
+				<ul>
+				<li>Effectively searching within multiple documentation repositories</li>
+					<ul>
+					<li>Sharepoint, Wiki, Sharefile, emails, past tickets</li>
+					</ul>
+				<li>Following up with the appropriate SMEs to correct/update the document when an error was discovered</li>
+				<li>Increasing documentation visibility by adding tags and/or moving it to a more relevant location</li>
+				<li>Working with SMEs and users to create new documentation that is easy to use and understand</li>
+				</ul>
+			<li>Constant Learning new applications, workflows, communication methods, and cross-team knowledge sharing</li>
+				<ul>
+				<li>Regularly work with other shifts to ensure knowledge and familiarity dissemination</li>
+				<li>Consistently provide off-hours support to less familiar teams across the TSOC family</li>
+				</ul>
+			<li>Consistent evaluation of current processes to identify areas and methods to improve efficiency and efficacy</li>
+				<ul>
+				<li>When a process is improved, work with all TSOC shifts to ensure improvement is applicable to all teams</li>
+				</ul>
+			<li>Work with a variety of teammates and other technical teams effectively and professionally</li>
+				<ul>
+				<li>Create strong team communication and support to:</li>
+					<ul>
+					<li>Minimize unnecessary turnover and subsequent retraining</li>
+					<li>Ensure effective troubleshooting and operational awareness through communication and trust</li>
+					</ul>
+				<li>Be proactive in connecting newer team members to SMEs to build knowledge and confidence</li>
+				<li>Reach out to other teams to discuss schedules and plans to ensure operational awareness</li>
+				</ul>
+			</ul>]]></details>
+		</job>
+		<job>
+			<company>Shonowa.com</company>
+			<time>
+				<startmonth>May</startmonth>
+				<startyear>2008</startyear>
+				<endmonth>Mar</endmonth>
+				<endyear>2013</endyear>
+			</time>
+			<roles><![CDATA[Project Manager, Lead Programmer, Database Administrator, Support and Feedback Manager]]></roles>
+			<skills><![CDATA[PHP, MySQL, Research and development, Testing, Client interaction & follow up, Leadership]]></skills>
+			<details type='dev'><![CDATA[<strong>Project Leader</strong> <em>Agile, SCRUM</em><br/>
+			<ul>
+			<li>Meet with stakeholders and end users regularly to provide updates and receive feedback</li>
+			<li>Prioritize new features based on meetings, value, and time to implement</li>
+			</ul>
+			<strong>Lead Programmer</strong> <em>PHP 5, HTML, XML, Excel - Quality Control, Technical Writer</em><br/>
+			<ul>
+			<li>Transition high level design details into lower level design specifications</li>
+			<li>Consistently implement testing and documentation practices throughout development process</li>
+			<li>When creating or expanding GUIs</li>
+				<ul>
+				<li>Ensure existing documentation is updated</li>
+				<li>Create new documentation with similar formatting as existing documents</li>
+				<li>Meet with end users regularly to gain feedback regarding ease of usability</li>
+				</ul>
+			</ul>
+			<strong>Database Administrator</strong> <em>MySQL, PHP 5, SQL - Design, Implementation, Maintenance</em><br/>
+			<ul>
+			<li>Utilize requirements from SCRUM and design specifications to design databases for multiple applications to share</li>
+			<li>Follow Database Normalization practices to ensure stability, usability, and scalability</li>
+			<li>Keep formatting consistent to allow cross-application data sharing to provide additional value</li>
+			</ul>
+			<strong>Support and Feedback Manager</strong> <em>MySQL, PHP 5, SQL, logging - On-Call Support</em><br/>
+			<ul>
+			<li>Give courteous and focused support, and always follow up to ensure resolution</li>
+			<li>Document any support calls to review them in future planning meetings</li>
+				<ul>
+				<li>Identify trends or repeated issue areas</li>
+				</ul>
+			</ul>]]></details>
+			<details type='short'><![CDATA[<strong>Project Leader</strong> <em>Agile, SCRUM</em><br/>
+			<strong>Lead Programmer</strong> <em>PHP 5, HTML, XML, Excel - Quality Control, Technical Writer</em><br/>
+			<ul>
+			<li>Transition high level design details into lower level design specifications</li>
+			</ul>
+			<strong>Database Administrator</strong> <em>MySQL, PHP 5, SQL - Design, Implementation, Maintenance</em><br/>
+			<strong>Support and Feedback Manager</strong> <em>MySQL, PHP 5, SQL, logging - On-Call Support</em><br/>
+			<ul>
+			<li>Internal and External customers</li>
+			</ul>]]></details>
+			<details type='expand'><![CDATA[<strong>Project Leader</strong> <em>Agile, SCRUM</em><br/>
+			<ul>
+			<li>Meet with stakeholders and end users regularly to provide updates and receive feedback</li>
+			<li>Prioritize new features based on meetings, value, and time to implement</li>
+			</ul>
+			<strong>Lead Programmer</strong> <em>PHP 5, HTML, XML, Excel - Quality Control, Technical Writer</em><br/>
+			<ul>
+			<li>Transition high level design details into lower level design specifications</li>
+			<li>Consistently implement testing and documentation practices throughout development process</li>
+			<li>When creating or expanding GUIs</li>
+				<ul>
+				<li>Ensure existing documentation is updated</li>
+				<li>Create new documentation with similar formatting as existing documents</li>
+				<li>Meet with end users regularly to gain feedback regarding user manual ease of usability</li>
+				</ul>
+			</ul>
+			<strong>Database Administrator</strong> <em>MySQL, PHP 5, SQL - Design, Implementation, Maintenance</em><br/>
+			<ul>
+			<li>Utilize requirements from SCRUM and design specifications to design databases for multiple applications to share</li>
+			<li>Follow Database Normalization practices to ensure stability and usability</li>
+			<li>Ensure Database is scalable based on multiple application needs</li>
+			<li>Keep formatting consistent to allow cross-application data sharing to provide additional value</li>
+			<li>Monitor database size and traffic to evaluate status and plan for future growth</li>
+			</ul>
+			<strong>Support and Feedback Manager</strong> <em>MySQL, PHP 5, SQL, logging - On-Call Support</em><br/>
+			<ul>
+			<li>Provide reliable contact information for internal and external customers</li>
+			<li>Give courteous and focused support, and always follow up to ensure resolution</li>
+			<li>Document any support calls to review them in future planning meetings</li>
+				<ul>
+				<li>Identify trends or repeated subjects of support calls</li>
+				<li>Work with relevant vendors, when applicable, to eliminate or lessen areas of concern</li>
+				</ul>
+			</ul>]]></details>
+			<details type='support'><![CDATA[<strong>Project Leader</strong> <em>Agile, SCRUM</em><br/> 
+			<ul>
+			<li>Meet with stakeholders and end users regularly to provide updates and receive feedback</li>
+			<li>Prioritize new features based on meetings, value, and time to implement</li>
+			</ul>
+			<strong>Lead Programmer</strong> <em>PHP 5, HTML, XML, Excel - Quality Control, Technical Writer</em><br/>
+			<ul>
+			<li>Transition high level design details into lower level design specifications</li>
+			<li>Consistently implement testing and documentation practices throughout development process</li>
+			</ul>
+			<strong>Database Administrator</strong> <em>MySQL, PHP 5, SQL - Design, Implementation, Maintenance</em><br/>
+			<ul>
+			<li>Utilize requirements from SCRUM and design specifications to design databases for multiple applications to share</li>
+			<li>Monitor database size and traffic to evaluate status and plan for future growth</li>
+			</ul>
+			<strong>Support and Feedback Manager</strong> <em>MySQL, PHP 5, SQL, logging - On-Call Support</em><br/>
+			<ul>
+			<li>Provide reliable contact information for internal and external customers</li>
+			<li>Give courteous and focused support, and always follow up to ensure resolution</li>
+			<li>Document any support calls to review them in future planning meetings</li>
+				<ul>
+				<li>Identify trends or repeated subjects of support calls</li>
+				<li>Work with relevant vendors, when applicable, to eliminate or lessen areas of concern</li>
+				</ul>
+			</ul>]]></details>
+			<details type='base'><![CDATA[<strong>Project Leader</strong> <em>Agile, SCRUM</em><br/>
+			<ul>
+			<li>Meet with stakeholders and end users regularly to provide updates and receive feedback</li>
+			<li>Prioritize new features based on meetings, value, and time to implement</li>
+			</ul>
+			<strong>Lead Programmer</strong> <em>PHP 5, HTML, XML, Excel - Quality Control, Technical Writer</em><br/>
+			<ul>
+			<li>Transition high level design details into lower level design specifications</li>
+			<li>Consistently implement testing and documentation practices throughout development process</li>
+			<li>When creating or expanding GUIs</li>
+				<ul>
+				<li>Ensure existing documentation is updated</li>
+				<li>Create new documentation with similar formatting as existing documents</li>
+				<li>Meet with end users regularly to gain feedback regarding user manual ease of usability</li>
+				</ul>
+			</ul>
+			<strong>Database Administrator</strong> <em>MySQL, PHP 5, SQL - Design, Implementation, Maintenance</em><br/>
+			<ul>
+			<li>Utilize requirements from SCRUM and design specifications to design databases for multiple applications to share</li>
+			<li>Follow Database Normalization practices to ensure stability and usability</li>
+			<li>Ensure Database is scalable based on multiple application needs</li>
+			<li>Keep formatting consistent to allow cross-application data sharing to provide additional value</li>
+			<li>Monitor database size and traffic to evaluate status and plan for future growth</li>
+			</ul>
+			<strong>Support and Feedback Manager</strong> <em>MySQL, PHP 5, SQL, logging - On-Call Support</em><br/>
+			<ul>
+			<li>Provide reliable contact information for internal and external customers</li>
+			<li>Give courteous and focused support, and always follow up to ensure resolution</li>
+			<li>Document any support calls to review them in future planning meetings</li>
+				<ul>
+				<li>Identify trends or repeated subjects of support calls</li>
+				<li>Work with relevant vendors, when applicable, to eliminate or lessen areas of concern</li>
+				</ul>
+			</ul>]]></details>
+		</job>
+		<job>
+			<company>Qualex Imaging</company>
+			<time>
+				<startmonth>Apr</startmonth>
+				<startyear>2012</startyear>
+				<endmonth>Oct</endmonth>
+				<endyear>2012</endyear>
+			</time>
+			<roles><![CDATA[JAVA Developer, Technical Writer, Quality Control]]></roles>
+			<skills><![CDATA[JAVA, Spring Web Flow, XHTML, HTML, Oracle, SQL]]></skills>
+			<details type='dev'><![CDATA[<strong>Java Developer</strong> <em>JAVA, Spring Web Flow, XHTML, HTML, Oracle 11g, SQL, SVN - SCRUM</em><br/>
+			<ul>
+			<li>Evaluate and implement feature requests from end users</li>
+				<ul>
+				<li>Professionally communicate with requester when clarification is needed</li>
+				<li>Identify and resolve any potential conflict between new feature and current user stories</li>
+				<li>Implement feature within local test environment</li>
+					<ul>
+					<li>Test new feature and existing functionality thoroughly</li>
+					<li>Update existing testing procedures to handle new feature</li>
+					</ul>
+				<li>Once tested locally, SVN commit new feature to shared test environment</li>
+					<ul>
+					<li>Repeat test for new feature and existing functionality</li>
+					<li>Verify new testing procedures perform correctly in shared test environment</li>
+					<li>Ensure functionality of any recent committed changes from other team members</li>
+					</ul>
+				<li>Once tested on shared test environment, disseminate updated/new documentation</li>
+				</ul>
+			</ul>
+			<strong>Documentation, Quality Control</strong>
+			<ul>
+			<li>Create QC testing protocols</li>
+				<ul>
+				<li>Work with senior team members and available end users to identify key user stories</li>
+				<li>Create testing protocols to ensure application functionality</li>
+				<li>Disseminate testing protocols to team members</li>
+				</ul>
+			<li>Consistently revisit testing protocols</li>
+				<ul>
+				<li>Identify and incorporate any new user stories</li>
+				<li>Expand documentation to incorporate new features</li>
+				</ul>
+			</ul>]]></details>
+			<details type='short'><![CDATA[<strong>Java Developer</strong> <em>JAVA, Spring Web Flow, XHTML, HTML, Oracle 11g, SQL, SVN - SCRUM</em><br/>
+			<ul>
+			<li>Evaluate and implement feature requests</li>
+			</ul>
+			<strong>Technical Writer, Quality Control</strong>
+			<ul>
+			<li>Creating and Updating QC testing protocols</li>
+			</ul>]]></details>
+			<details type='expand'><![CDATA[<strong>Java Developer</strong> <em>JAVA, Spring Web Flow, XHTML, HTML, Oracle 11g, SQL, SVN - SCRUM</em><br/>
+			<ul>
+			<li>Evaluate and implement feature requests from end users</li>
+				<ul>
+				<li>Professionally communicate with requester when clarification is needed</li>
+				<li>Identify and resolve any potential conflict between new feature and current user stories</li>
+				<li>Implement feature within local test environment</li>
+					<ul>
+					<li>Test new feature and existing functionality thoroughly</li>
+					<li>Update existing testing procedures to handle new feature</li>
+					</ul>
+				<li>Once tested locally, SVN commit new feature to shared test environment</li>
+					<ul>
+					<li>Repeat test for new feature and existing functionality</li>
+					<li>Verify new testing procedures perform correctly in shared test environment</li>
+					<li>Ensure functionality of any recent committed changes from other team members</li>
+					</ul>
+				<li>Once tested on shared test environment, disseminate updated/new documentation</li>
+				</ul>
+			</ul>
+			<strong>Technical Writer, Quality Control</strong>
+			<ul>
+			<li>Create QC testing protocols</li>
+				<ul>
+				<li>Work with senior team members and available end users to identify key user stories</li>
+				<li>Create testing protocols to ensure application functionality</li>
+				<li>Disseminate testing protocols to team members</li>
+				</ul>
+			<li>Consistently revisit testing protocols</li>
+				<ul>
+				<li>Identify and include any new user stories</li>
+				<li>Regularly communicate with team members to identify new testing needs</li>
+				<li>Expand documentation to incorporate new features</li>
+				<li>Disseminate new testing protocols to team members</li>
+				</ul>
+			</ul>]]></details>
+			<details type='support'><![CDATA[<strong>Java Developer</strong> <em>JAVA, Spring Web Flow, XHTML, HTML, Oracle 11g, SQL, SVN - SCRUM</em><br/>
+			<ul>
+			<li>Evaluate and implement feature requests from end users</li>
+			</ul>
+			<strong>Technical Writer, Quality Control</strong>
+			<ul>
+			<li>Create QC testing protocols</li>
+				<ul>
+				<li>Work with senior team members and available end users to identify key user stories</li>
+				<li>Create testing protocols to ensure application functionality</li>
+				</ul>
+			<li>Consistently revisit testing protocols</li>
+				<ul>
+				<li>Regularly communicate with team members to identify new testing needs</li>
+				</ul>
+			</ul>]]></details>
+			<details type='base'><![CDATA[<strong>Java Developer</strong> <em>JAVA, Spring Web Flow, XHTML, HTML, Oracle 11g, SQL, SVN - SCRUM</em><br/>
+			<ul>
+			<li>Evaluate and implement feature requests from end users</li>
+				<ul>
+				<li>Professionally communicate with requester when clarification is needed</li>
+				<li>Identify and resolve any potential conflict between new feature and current user stories</li>
+				<li>Implement feature within local test environment</li>
+					<ul>
+					<li>Test new feature and existing functionality thoroughly</li>
+					<li>Update existing testing procedures to handle new feature</li>
+					</ul>
+				<li>Once tested locally, SVN commit new feature to shared test environment</li>
+					<ul>
+					<li>Repeat test for new feature and existing functionality</li>
+					<li>Verify new testing procedures perform correctly in shared test environment</li>
+					<li>Ensure functionality of any recent committed changes from other team members</li>
+					</ul>
+				<li>Once tested on shared test environment, disseminate updated/new documentation</li>
+				</ul>
+			</ul>
+			<strong>Technical Writer, Quality Control</strong>
+			<ul>
+			<li>Create QC testing protocols</li>
+				<ul>
+				<li>Work with senior team members and available end users to identify key user stories</li>
+				<li>Create testing protocols to ensure application functionality</li>
+				<li>Disseminate testing protocols to team members</li>
+				</ul>
+			<li>Consistently revisit testing protocols</li>
+				<ul>
+				<li>Identify and include any new user stories</li>
+				<li>Regularly communicate with team members to identify new testing needs</li>
+				<li>Expand documentation to incorporate new features</li>
+				<li>Disseminate new testing protocols to team members</li>
+				</ul>
+			</ul>]]></details>
+		</job>
+		<job>
+			<company>IBM</company>
+			<time>
+				<startmonth>Jul</startmonth>
+				<startyear>2008</startyear>
+				<endmonth>Apr</endmonth>
+				<endyear>2012</endyear>
+			</time>
+			<roles><![CDATA[WCM Technical Specialist, Portal Installation & Cluster Specialist, Critical Support Coordinator]]></roles>
+			<skills><![CDATA[Customer interaction, Error resolution, JAVA, DB, SQL, Team Player]]></skills>
+			<details type='dev'><![CDATA[<strong>WCM Technical Specialist</strong> <em>JAVA, System logging, SQL/Database</em><br/>
+			<ul>
+			<li>Troubleshoot problem tickets from clients with varying business needs, uses, and setups</li>
+			<li>Coordinate troubleshooting with multiple teams across the globe to assist/get assistance with complicated issues</li>
+			<li>On-call rotation, including backup on-call rotation</li>
+			</ul>
+			<strong>Portal Installation and Clustering Specialist</strong> <em>JAVA, install/setup, Logging, SQL/Database, OS configuration</em><br/>
+			<ul>
+			<li>Communicate with clients to understand their business needs and current hardware and network setup</li>
+			<li>Create test environments to attempt issue replication and local troubleshooting</li>
+			<li>Provide a solution to the client that accomplishes their needs within their available resources</li>
+			</ul>]]></details>
+			<details type='short'><![CDATA[<strong>WCM Technical Specialist</strong> <em>JAVA, System logging, SQL/Database</em><br/>
+			<strong>Portal Installation and Clustering Specialist</strong> <em>JAVA, install/setup, Logging, SQL/Database, OS configuration</em><br/>
+			<strong>Critical Support Coordinator</strong>
+			<ul>
+			<li>Coordinate troubleshooting with multiple teams across the globe</li>
+			</ul>]]></details>
+			<details type='expand'><![CDATA[<strong>WCM Technical Specialist</strong> <em>JAVA, System logging, SQL/Database</em><br/>
+			<ul>
+			<li>Familiarize myself with WCM suite</li>
+			<li>Accept problem tickets from clients with varying business needs, uses, and setups</li>
+			<li>Coordinate troubleshooting with multiple teams across the globe</li>
+				<ul>
+				<li>Coordination needs including hours of operation and SME knowledge</li>
+				</ul>
+			<li>On-call rotation, including backup on-call rotation</li>
+			<li>Work with team members to assist and get assistance with complicated issues</li>
+			</ul>
+			<strong>Portal Installation and Clustering Specialist</strong> <em>JAVA, install/setup, Logging, SQL/Database, OS configuration</em><br/>
+			<ul>
+			<li>Communicate with clients to understand their business needs and current hardware and network setup</li>
+			<li>Create test environments to attempt issue replication and local troubleshooting</li>
+			<li>Provide a solution to the client that accomplishes their needs within their available resources</li>
+			</ul>
+			<strong>Critical Support Coordinator</strong>
+			<ul>
+			<li>Coordinate troubleshooting with multiple teams across the globe</li>
+				<ul>
+				<li>Ensure new resolution steps/methods are disseminated to the entire IBM family and clients</li>
+				<li>Accommodate employee’s schedules from regions and cultures across the globe</li>
+				</ul>
+			</ul>]]></details>
+			<details type='support'><![CDATA[<strong>WCM Technical Specialist</strong> <em>JAVA, System logging, SQL/Database</em><br/>
+			<ul>
+			<li>Familiarize myself with WCM suite</li>
+			<li>Accept problem tickets from clients with varying business needs, uses, and setups</li>
+			<li>Coordinate troubleshooting with multiple teams across the globe</li>
+				<ul>
+				<li>Coordination needs including hours of operation and SME knowledge</li>
+				</ul>
+			<li>On-call rotation, including backup on-call rotation</li>
+			<li>Work with team members to assist and get assistance with complicated issues</li>
+			</ul>
+			<strong>Portal Installation and Clustering Specialist</strong> <em>JAVA, install/setup, Logging, SQL/Database, OS configuration</em><br/>
+			<ul>
+			<li>Communicate with clients to understand their business needs and current hardware and network setup</li>
+			<li>Create test environments to attempt issue replication and local troubleshooting</li>
+			<li>Provide a solution to the client that accomplishes their needs within their available resources</li>
+			</ul>
+			<strong>Critical Support Coordinator</strong>
+			<ul>
+			<li>Coordinate troubleshooting with multiple teams across the globe</li>
+				<ul>
+				<li>Ensure new resolution steps/methods are disseminated to the entire IBM family and clients</li>
+				<li>Accommodate employee’s schedules from regions and cultures across the globe</li>
+				</ul>
+			</ul>]]></details>
+			<details type='base'><![CDATA[<strong>WCM Technical Specialist</strong> <em>JAVA, System logging, SQL/Database</em><br/>
+			<ul>
+			<li>Familiarize myself with WCM suite</li>
+			<li>Accept problem tickets from clients with varying business needs, uses, and setups</li>
+			<li>Coordinate troubleshooting with multiple teams across the globe</li>
+				<ul>
+				<li>Coordination needs including hours of operation and SME knowledge</li>
+				</ul>
+			<li>On-call rotation, including backup on-call rotation</li>
+			<li>Work with team members to assist and get assistance with complicated issues</li>
+			</ul>
+			<strong>Portal Installation and Clustering Specialist</strong> <em>JAVA, install/setup, Logging, SQL/Database, OS configuration</em><br/>
+			<ul>
+			<li>Communicate with clients to understand their business needs and current hardware and network setup</li>
+			<li>Create test environments to attempt issue replication and local troubleshooting</li>
+			<li>Provide a solution to the client that accomplishes their needs within their available resources</li>
+			</ul>
+			<strong>Critical Support Coordinator</strong>
+			<ul>
+			<li>Coordinate troubleshooting with multiple teams across the globe</li>
+				<ul>
+				<li>Ensure new resolution steps/methods are disseminated to the entire IBM family and clients</li>
+				<li>Accommodate employee’s schedules from regions and cultures across the globe</li>
+				</ul>
+			</ul>]]></details>
+			<details type='example'><![CDATA[example]]></details>
+		</job>
+	</experience>
+	<volunteer><![CDATA[Stansberry Elementary - Jan 2013-2016 - Math Tutoring - Science Exploration - Reading - Teacher/Office Aide<br/>
+			Letford Elementary - Sept 2016-present - Copy work]]></volunteer>
+	<softskills><![CDATA[Problem Solver - Team Player - Trainer - Leader - Process Improver]]></softskills>
+</resume>
