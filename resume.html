@@ -10,6 +10,12 @@
 <body>
 
 <div id="app">
+	<button class="button" v-on:click="setToDev">set to dev</button>
+  	<button class="button" v-on:click="setToExpand">set to expand</button>
+  	<button class="button" v-on:click="setToSupport">set to dev</button>
+	<button class="button" v-on:click="setToShort">set to short</button>
+ 	<button class="button" v-on:click="setToBase">set to base</button>
+	<br/>
 <table>
 	<tr>
 		<th colspan=2 id="name">
@@ -84,7 +90,7 @@
 </div>
 
 <script>
-var resType = decodeURIComponent((new RegExp('[?|&]res=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null;
+//var resType = decodeURIComponent((new RegExp('[?|&]res=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null;
 var request = new XMLHttpRequest();
 request.open("GET", "ProjWork.xml", false);
 request.send();
@@ -109,12 +115,9 @@ for(var i = 0; i < jobs.length; i++) {
 	var skill = jobs[i].getElementsByTagName("skills").item(0).textContent;
 	var detailSub = jobs[i].getElementsByTagName("details");
 	var detailAttr = detailSub[0].getAttributeNode("type").value;
-	if (resType==null){
-		resType = 'dev';
-	}
 	for(var j = 0; j < detailSub.length; j++) {
 		var detailAttr = detailSub[j].getAttributeNode("type").value;
-		if (detailAttr==resType){
+		if (detailAttr=='dev'){
 			var details = detailSub[j].textContent;
 		}
 	}
@@ -143,6 +146,74 @@ var app = new Vue({
        	education: educations,
       	volunteer: volunteers,
        	softSkill: softskill,
+       	resStyle: 'dev'
+	},
+	methods: {
+		setToDev: function () {
+			this.resStyle = "dev";
+			this.setResume();
+		},
+		setToExpand: function () {
+			this.resStyle = "expand";
+			this.setResume();
+		},
+		setToSupport: function () {
+			this.resStyle = "support";
+			this.setResume();
+		},
+		setToShort: function () {
+			this.resStyle = "short";
+			this.setResume();
+		},
+		setToBase: function () {
+			this.resStyle = "base";
+			this.setResume();
+		},
+		setResume: function () {
+			//var resType = decodeURIComponent((new RegExp('[?|&]res=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null;
+			var request = new XMLHttpRequest();
+			request.open("GET", "ProjWork.xml", false);
+			request.send();
+			var xml = request.responseXML;
+			var contacts = xml.getElementsByTagName("contact");
+			this.contactname = contacts[0].getElementsByTagName("contactname").item(0).textContent;
+			this.contactphone = contacts[0].getElementsByTagName("contactphone").item(0).textContent;
+			this.contactemail = contacts[0].getElementsByTagName("contactemail").item(0).textContent;
+			this.techskill = xml.getElementsByTagName("techskills").item(0).textContent;
+			this.certifications = xml.getElementsByTagName("certifications").item(0).textContent;
+			this.education = xml.getElementsByTagName("education").item(0).textContent;
+			this.volunteer = xml.getElementsByTagName("volunteer").item(0).textContent;
+			this.softSkill = xml.getElementsByTagName("softskills").item(0).textContent;
+			var jobs = xml.getElementsByTagName("job");
+	
+			var jobsArr = [];
+			for(var i = 0; i < jobs.length; i++) {
+				var companyName = jobs[i].getElementsByTagName("company").item(0).textContent;
+				var startDate = jobs[i].getElementsByTagName("startmonth").item(0).textContent + " " + jobs[i].getElementsByTagName("startyear").item(0).textContent;
+				var endDate = jobs[i].getElementsByTagName("endmonth").item(0).textContent + " " + jobs[i].getElementsByTagName("endyear").item(0).textContent;
+				var role = jobs[i].getElementsByTagName("roles").item(0).textContent;
+				var skill = jobs[i].getElementsByTagName("skills").item(0).textContent;
+				var detailSub = jobs[i].getElementsByTagName("details");
+				var detailAttr = detailSub[0].getAttributeNode("type").value;
+				for(var j = 0; j < detailSub.length; j++) {
+					var detailAttr = detailSub[j].getAttributeNode("type").value;
+					if (detailAttr==this.resStyle){
+						var details = detailSub[j].textContent;
+					}
+				}
+				
+				var jobArr = [
+					{company : companyName},
+				    {startdate : startDate},
+				    {enddate : endDate},
+				    {roles : role},
+				    {skills : skill},
+			      	{detail : details}
+			    ];
+			    jobsArr.push(jobArr);
+			}
+			this.experience=jobsArr;
+		}
 	}
 })
 
