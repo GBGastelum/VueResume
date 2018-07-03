@@ -10,11 +10,11 @@
 <body>
 
 <div id="app">
-	<button class="button" v-on:click="setToDev">set to dev</button>
-  	<button class="button" v-on:click="setToExpand">set to expand</button>
-  	<button class="button" v-on:click="setToSupport">set to dev</button>
-	<button class="button" v-on:click="setToShort">set to short</button>
- 	<button class="button" v-on:click="setToBase">set to base</button>
+ 	<button class="button" v-on:click="setToBase">Base Resume</button>
+	<button class="button" v-on:click="setToDev">Developer Focus</button>
+  	<button class="button" v-on:click="setToExpand">Expanded Details</button>
+  	<button class="button" v-on:click="setToSupport">Support Focused</button>
+	<button class="button" v-on:click="setToShort">Concise</button>
 	<br/>
 <table>
 	<tr>
@@ -60,7 +60,21 @@
 	</tr>
 	<tr>
 		<td colspan=2 class="PrimarySection">
-			<h2>Job and Project Experience</h2>
+			<h2>Personal Projects</h2>
+		</td>
+	</tr>
+	<tr v-for="project in projectExperience">
+		<td class="company">
+			<h3 class="companyName">{{ project[0].pName }}</h3>
+			<h4 class="companyTime">{{ project[1].pUrl }}</h4>
+		</td>
+		<td class="roles">
+			<span v-html="project[2].pDetail"></span>
+		</td>
+	</tr>
+	<tr>
+		<td colspan=2 class="PrimarySection">
+			<h2>Career Experience</h2>
 		</td>
 	</tr>
 	<tr v-for="job in experience">
@@ -90,6 +104,7 @@
 </div>
 
 <script>
+//Code to pull "res" get variable
 //var resType = decodeURIComponent((new RegExp('[?|&]res=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null;
 var request = new XMLHttpRequest();
 request.open("GET", "ProjWork.xml", false);
@@ -104,8 +119,22 @@ var certification = xml.getElementsByTagName("certifications").item(0).textConte
 var educations = xml.getElementsByTagName("education").item(0).textContent;
 var volunteers = xml.getElementsByTagName("volunteer").item(0).textContent;
 var softskill = xml.getElementsByTagName("softskills").item(0).textContent;
-var jobs = xml.getElementsByTagName("job");
 
+var projects = xml.getElementsByTagName("project");
+var projsArr = [];
+for(var i = 0; i < projects.length; i++) {
+	var projName = projects[i].getElementsByTagName("name").item(0).textContent;
+	var projUrl = projects[i].getElementsByTagName("url").item(0).textContent;
+	var projDetail = projects[i].getElementsByTagName("details").item(0).textContent;
+	var projArr = [
+		{pName : projName},
+	    {pUrl : projUrl},
+	    {pDetail : projDetail}
+    ];
+	projsArr.push(projArr);
+}
+
+var jobs = xml.getElementsByTagName("job");
 var jobsArr = [];
 for(var i = 0; i < jobs.length; i++) {
 	var companyName = jobs[i].getElementsByTagName("company").item(0).textContent;
@@ -137,6 +166,7 @@ var app = new Vue({
    	el: '#app',
    	data: {
        	message: 'Hello Vue World',
+       	projectExperience: projsArr,
        	experience: jobsArr,
        	contactname: contactName,
        	contactphone: contactPhone,
