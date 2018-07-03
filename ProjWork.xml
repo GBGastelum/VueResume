@@ -19,7 +19,7 @@
 	<education><![CDATA[Bachelors of Computer Science - Neumont University - June 2008]]></education>
 	<experience>
 		<project>
-			<name>Github</name>
+			<name>Github </name>
 			<url>github.com/GBGastelum/</url>
 			<details><![CDATA[<ul>
 			<li>Vue.js Resume focus selector - github.com/GBGastelum/VueResume - Javascript, Vue.js, XML, HTML, CSS</li>
